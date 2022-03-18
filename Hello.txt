@@ -1,6 +1,7 @@
-print("Hello!");
+print("Hello!;");
 print;
 cut;
-Print("kek");
-Print("lol");
-Print("Glad to see you");
+<<<<<<< HEAD
+Print("kek;");
+Print("lol;");
+Print("Glad to see you;");
