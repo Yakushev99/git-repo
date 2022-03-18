@@ -2,3 +2,4 @@ print("Hello!");
 print;
 cut;
 Print("kek");
+Print("lol");
