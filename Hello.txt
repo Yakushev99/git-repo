@@ -1,4 +1,7 @@
 print("Hello!;");
 print;
 cut;
+<<<<<<< HEAD
 Print("kek;");
+Print("lol;");
+Print("Glad to see you;");
