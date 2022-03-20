@@ -5,3 +5,4 @@ cut;
 Print("kek;");
 Print("lol;");
 Print("Glad to see you;");
+print("Hello!;");
